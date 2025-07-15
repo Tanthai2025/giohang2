@@ -1,0 +1,6 @@
+{
+  "name": "Giỏ hàng và Thanh toán",
+  "description": "Một tiện ích bổ sung cho Google Sites cho phép khách hàng duyệt sản phẩm, thêm vào giỏ hàng và thanh toán. Đơn hàng được lưu trực tiếp vào Google Sheet.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
